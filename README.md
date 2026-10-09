@@ -1,5 +1,19 @@
 [![](https://raw.githubusercontent.com/Ali83128/Ali83128/main/chat.svg)](https://ali83128.github.io)
 
+### Software projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [flask-sales-dashboard](https://github.com/Ali83128/flask-sales-dashboard) | Secure sales dashboard: logins, KPI cards, live charts, filters, CSV export, JSON API. 40 tests. | Flask · SQLAlchemy · Chart.js |
+| [fastapi-inventory-api](https://github.com/Ali83128/fastapi-inventory-api) | Inventory and orders REST API with API-key roles, stock reservations and valuation reports. 35 tests. | FastAPI · SQLAlchemy · Pydantic |
+| [python-web-scraper](https://github.com/Ali83128/python-web-scraper) | Polite scraper with retries, data cleaning and CSV / JSON / formatted Excel export. 26 tests. | Python · BeautifulSoup · openpyxl |
+| [discord-community-bot](https://github.com/Ali83128/discord-community-bot) | Slash-command moderation with strike escalation, role panels and scheduled posts. 134 tests. | discord.py · SQLite |
+| [linux-server-bootstrap](https://github.com/Ali83128/linux-server-bootstrap) | VPS hardening and deploy script: SSH keys, UFW, fail2ban, Nginx, Let's Encrypt. Dry-run + CI. | Bash · Nginx · systemd |
+
+Need one of these built for your business? [Hire me on Upwork](https://www.upwork.com/freelancers/ali83128).
+
+---
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
