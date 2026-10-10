@@ -9,6 +9,13 @@
 | [python-web-scraper](https://github.com/Ali83128/python-web-scraper) | Polite scraper with retries, data cleaning and CSV / JSON / formatted Excel export. 26 tests. | Python · BeautifulSoup · openpyxl |
 | [discord-community-bot](https://github.com/Ali83128/discord-community-bot) | Slash-command moderation with strike escalation, role panels and scheduled posts. 134 tests. | discord.py · SQLite |
 | [linux-server-bootstrap](https://github.com/Ali83128/linux-server-bootstrap) | VPS hardening and deploy script: SSH keys, UFW, fail2ban, Nginx, Let's Encrypt. Dry-run + CI. | Bash · Nginx · systemd |
+| [openai-structured-extraction](https://github.com/Ali83128/openai-structured-extraction) | OpenAI feature for existing Python apps: validated JSON, retries, cost cap, cache, FastAPI endpoint. 28 tests. | OpenAI · Pydantic · FastAPI |
+| [pdf-invoice-extractor](https://github.com/Ali83128/pdf-invoice-extractor) | Invoice PDFs to Excel/CSV/JSON with totals validation and a review sheet. 32 tests. | pdfplumber · openpyxl |
+| [browser-automation-playwright](https://github.com/Ali83128/browser-automation-playwright) | YAML-defined browser tasks: logins, bulk form entry, downloads, retries, failure screenshots. 14 tests. | Playwright · Python |
+| [stripe-payments-flask](https://github.com/Ali83128/stripe-payments-flask) | Stripe Checkout, subscriptions and signed idempotent webhooks in Flask. 27 tests. | Stripe · Flask · SQLite |
+| [telegram-business-bot](https://github.com/Ali83128/telegram-business-bot) | Business alerts to Telegram via signed webhook, staff commands, inline buttons, daily digest. 46 tests. | python-telegram-bot |
+| [google-sheets-automation](https://github.com/Ali83128/google-sheets-automation) | Google Sheets sync, cleaning and weekly reports, quota-safe. 30 tests. | gspread · pandas |
+| [n8n-selfhost-kit](https://github.com/Ali83128/n8n-selfhost-kit) | Self-hosted n8n: Docker Compose, Postgres, Caddy HTTPS, backups with restore check. 38 checks + CI. | Docker · Caddy · Bash |
 
 Need one of these built for your business? [Hire me on Upwork](https://www.upwork.com/freelancers/ali83128).
 
